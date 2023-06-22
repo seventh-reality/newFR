@@ -1,4 +1,4 @@
-import {loadGLTF} from 'loader.js';
+import {loadGLTF} from "loader.js";
 import * as THREE from 'threemodule.js';
 import {ARButton} from 'ARButton.js';
 
