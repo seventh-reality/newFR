@@ -1,5 +1,5 @@
 import {loadGLTF} from 'loader.js';
-import * as THREE from 'three.module.js';
+import * as THREE from 'threemodule.js';
 import {ARButton} from 'ARButton.js';
 
 const normalizeModel = (obj, height) => {
